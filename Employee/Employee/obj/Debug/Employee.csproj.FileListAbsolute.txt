@@ -1,0 +1,5 @@
+D:\Programming\Github\Employee\Employee\bin\Debug\Employee.dll
+D:\Programming\Github\Employee\Employee\bin\Debug\Employee.pdb
+D:\Programming\Github\Employee\Employee\obj\Debug\Employee.csprojAssemblyReference.cache
+D:\Programming\Github\Employee\Employee\obj\Debug\Employee.dll
+D:\Programming\Github\Employee\Employee\obj\Debug\Employee.pdb

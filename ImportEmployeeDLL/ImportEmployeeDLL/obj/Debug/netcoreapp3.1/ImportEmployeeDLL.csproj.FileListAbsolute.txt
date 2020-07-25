@@ -1,0 +1,14 @@
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\ImportEmployeeDLL.exe
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\ImportEmployeeDLL.deps.json
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\ImportEmployeeDLL.runtimeconfig.json
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\ImportEmployeeDLL.runtimeconfig.dev.json
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\ImportEmployeeDLL.dll
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\ImportEmployeeDLL.pdb
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\Employee.dll
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\bin\Debug\netcoreapp3.1\EmployeeAddSalary.dll
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\obj\Debug\netcoreapp3.1\ImportEmployeeDLL.csprojAssemblyReference.cache
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\obj\Debug\netcoreapp3.1\ImportEmployeeDLL.AssemblyInfoInputs.cache
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\obj\Debug\netcoreapp3.1\ImportEmployeeDLL.AssemblyInfo.cs
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\obj\Debug\netcoreapp3.1\ImportEmployeeDLL.csproj.CopyComplete
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\obj\Debug\netcoreapp3.1\ImportEmployeeDLL.dll
+D:\Programming\Github\ImportEmployeeDLL\ImportEmployeeDLL\obj\Debug\netcoreapp3.1\ImportEmployeeDLL.pdb

@@ -1,0 +1,7 @@
+D:\Programming\Github\EmployeeAddSalary\EmployeeAddSalary\bin\Debug\EmployeeAddSalary.dll
+D:\Programming\Github\EmployeeAddSalary\EmployeeAddSalary\bin\Debug\EmployeeAddSalary.pdb
+D:\Programming\Github\EmployeeAddSalary\EmployeeAddSalary\bin\Debug\Employee.dll
+D:\Programming\Github\EmployeeAddSalary\EmployeeAddSalary\obj\Debug\EmployeeAddSalary.csprojAssemblyReference.cache
+D:\Programming\Github\EmployeeAddSalary\EmployeeAddSalary\obj\Debug\EmployeeAddSalary.csproj.CopyComplete
+D:\Programming\Github\EmployeeAddSalary\EmployeeAddSalary\obj\Debug\EmployeeAddSalary.dll
+D:\Programming\Github\EmployeeAddSalary\EmployeeAddSalary\obj\Debug\EmployeeAddSalary.pdb
